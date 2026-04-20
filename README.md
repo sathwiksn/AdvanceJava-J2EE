@@ -12,4 +12,38 @@
 1C2 REVERSE_LINKEDLIST: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/1c2.png
 1C3 INSERT_END_LINKEDLIST: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/1c3.png
 1C4 DISPLAY_POSITION_LINKEDLIST: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/1c4.png
+1C5 SWAP_LINKEDLIST: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/1c5.png
+
+2A STRING_OPRATIONS: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/2a.png
+
+2B PERFORMANCE_TEST: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/2b.png
+
+3A STRING_FUNCTIONS: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3a.png
+
+3B NULL_OR_EMPTY_CHECK: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3b.png
+3B OCCURRENCES: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3b.png
+3B REVERSE_STRING: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3b.png
+3B PALINDROME_CHECK: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3b.png
+3B REVERSE_STRING: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3b.png
+
+3C CAPITALIZE_ WORDS: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3c.png
+3C TRUNCATE_STRING: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3c.png
+3C NUMERIC_CHECK: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3c.png
+3C RANDOM_STRING: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3c.png
+3C COUNT_WORD: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/3c.png
+
+4A HELLO_SWING: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/4a.png
+
+4B COUNTRY_BUTTON: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/4b.png
+
+4C IMAGE_BUTTON: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/4c.png
+
+5A COUNTRY_LIST_DEMO: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/5a.png
+
+5B TABBED_PANE_DEMO: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/5b.png
+
+5C COUNTRY_CAPITAL_DEMO: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/5c.png
+
+5D COLOR_TABBED_PANE_DEMO: https://github.com/sathwiksn/AdvanceJava-J2EE/blob/main/5d.png
+
 
